@@ -1,0 +1,3 @@
+com\mycomp\firstapp\controller\AddController.class
+com\mycomp\firstapp\FirstappApplication.class
+com\mycomp\firstapp\pojo\AddRequest.class
